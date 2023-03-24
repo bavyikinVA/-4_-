@@ -1,0 +1,8 @@
+C:\Users\alexg\source\repos\stp4list\bin\Debug\stp4list.exe.config
+C:\Users\alexg\source\repos\stp4list\bin\Debug\stp4list.exe
+C:\Users\alexg\source\repos\stp4list\bin\Debug\stp4list.pdb
+C:\Users\alexg\source\repos\stp4list\obj\Debug\stp4list.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\stp4list\obj\Debug\stp4list.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexg\source\repos\stp4list\obj\Debug\stp4list.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\stp4list\obj\Debug\stp4list.exe
+C:\Users\alexg\source\repos\stp4list\obj\Debug\stp4list.pdb
